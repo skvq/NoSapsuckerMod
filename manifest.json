@@ -1,0 +1,7 @@
+{
+    "name": "NoSapsuckerMod",
+    "version_number": "1.0.0.0",
+    "website_url": "https://github.com/skvq/NoSapsuckerMod",
+    "description": "This mod removes Sapsucker from the game",
+    "dependencies": []
+}
