@@ -1,6 +1,6 @@
 {
     "name": "NoSapsuckerMod",
-    "version_number": "1.0.2",
+    "version_number": "1.0.5",
     "website_url": "https://github.com/skvq/NoSapsuckerMod",
     "description": "Just remove the sapsucker from the game.",
     "dependencies": [ "BepInEx-BepInExPack-5.4.2100" ]
