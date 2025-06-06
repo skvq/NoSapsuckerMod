@@ -19,3 +19,5 @@ or
 		- Added image.
 	- v1.0.2
 		- Added description for simple search.
+  	- v1.0.5
+		- Adapted for v72.
